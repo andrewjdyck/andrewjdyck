@@ -2,6 +2,14 @@
 
 I love working with data for inference and prediction. See some of my projects below. I'd love to hear from you.
 
+## Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/andrewjdyck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewjdyck" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrewjdyck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewjdyck" height="30" width="40" /></a>
+<!--<a href="https://medium.com/@andrewjdyck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andrewjdyck" height="30" width="40" /></a>
+</p>-->
+
 # Personal projects
 
 ## Open data :sunny:
@@ -36,14 +44,6 @@ I love working with data for inference and prediction. See some of my projects b
 # Recent writing
 
 - Working on it...
-
-# Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/andrewjdyck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrewjdyck" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrewjdyck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrewjdyck" height="30" width="40" /></a>
-<!--<a href="https://medium.com/@andrewjdyck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andrewjdyck" height="30" width="40" /></a>
-</p>-->
 
 # Languages and Tools:
 
