@@ -1,16 +1,22 @@
-### Hi there 👋
+![Intro header](./assets/header.png)
 
-<!--
-**andrewjdyck/andrewjdyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love working with data for inference and prediction. See some of my projects below. I'd love to hear from you.
 
-Here are some ideas to get you started:
+# Personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open data
+
+- [statscanr](https://github.com/andrewjdyck/statscanr): R package for programatic access to Statistics Canada APIs
+- [statscanpy](https://github.com/andrewjdyck/statscanpy): Python package for programatic access to Statistics Canada APIs
+- [Saskatchewan open data sources](https://github.com/andrewjdyck/Sask-Open-Data-Sources)
+- [Saskatchewan COVID-19 data normalization](https://github.com/SaskOpenData/covid19-sask)
+
+## Global ocean fisheries
+
+- [Global Fisheries data](https://github.com/andrewjdyck/api.openfisheries.org): Aggregation and normalization of global fisheries data from official sources.
+- [rfisheries](https://github.com/ropensci/rfisheries): An R package for easy access to global fisheries landings data
+
+## Football :football:
+
+- [tidyCFL](https://github.com/NorthernLightsDataLab/tidyCFL): tidy data R package for Canadian Football League (CFL) data
+- [CanadianFootball](https://github.com/andrewjdyck/CanadianFootball)
